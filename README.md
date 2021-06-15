@@ -88,7 +88,7 @@ Test the `deposit` function by sending various values. Keep an eye on the `emplo
 
 <h1><b> Associate Profit Splitter - Txn 1 </h1></b>
 
-![AssociateProfitSplitter](Images/ProfitSplitter_txn_1.png)
+![AssociateProfitSplitter](Images/ProfitSplitter_txn_1.PNG)
 
 ### Level Two: The `TieredProfitSplitter` Contract
 
@@ -130,7 +130,7 @@ Using the starter code, within the `deposit` function, perform the following:
 
   <h1><b> Tiered Profit Splitter - Txn 1 </h1></b>
 
-![TieredProfitSplitter](Images/TieredProfitSplitter_txn_1.png)
+![TieredProfitSplitter](Images/TieredProfitSplitter_txn_1.PNG)
 
 ### Level Three: The `DeferredEquityPlan` Contract
 
@@ -194,7 +194,7 @@ Using the starter code, perform the following:
 
 <h1><b> Deferred Equity Plan - Txn 1 </h1></b>
 
-![DeferredEquityPlan](Images/DeferredEquityPlan_txn_1.png)
+![DeferredEquityPlan](Images/DeferredEquityPlan_txn_1.PNG)
 
 ### Deploy the contracts to a live Testnet
 
@@ -204,17 +204,17 @@ After switching MetaMask to Kovan, deploy the contracts as before and copy/keep 
 
 <h1><b> Associate Profit Splitter - Deployed </h1></b>
 
-![deployedAssociateProfitSplitter](Images/ProfitSplitter_deploy_kovan.png)
+![deployedAssociateProfitSplitter](Images/ProfitSplitter_deploy_kovan.PNG)
 https://kovan.etherscan.io/tx/0x7205c478158e383082715611997d55c54085c3238d44ecda42e6ae5282466d55
 
  <h1><b> Tiered Profit Splitter - Deployed </h1></b>
 
-![DeployedTieredProfitSplitter](Images/TieredProfitSplitter_deploy_kovan.png)
+![DeployedTieredProfitSplitter](Images/TieredProfitSplitter_deploy_kovan.PNG)
 https://kovan.etherscan.io/tx/0xf0a0adbbf64d6ee25dec7443872532bf1d3e8202fd1686115ca2099db5f8aca1
 
 <h1><b> Deferred Equity Plan - Deployed </h1></b>
 
-![DeployedDeferredEquityPlan](Images/DeferredEquityPlan_deploy_kovan.png)
+![DeployedDeferredEquityPlan](Images/DeferredEquityPlan_deploy_kovan.PNG)
 https://kovan.etherscan.io/tx/0xa21546543c924597a993d27547c5b4d0e87fae47f667860ce618f62239ae880b
 
 ## Resources
